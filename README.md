@@ -14,6 +14,8 @@
 
 > 组件通信使用 pubsub-js, 具体使用可参数src/views/pages下逻辑或文档
 
+> vue.config.js里面的devServer->proxy默认开启了调试时跨域,无需在chrome上加命令了
+
 ### 本项目框架已成功应用于"纵横智停"项目,微信可搜索"纵横智停"公众号体验 
 ### [纵横智停](http://wx.cdhuanyu.com.cn/) ==> 部分页面需微信打开浏览
 
