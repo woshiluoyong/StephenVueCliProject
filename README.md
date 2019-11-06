@@ -40,16 +40,18 @@ npm run build
 >> ### 最后，展示截图(如果截图抽风没展示出来，请在screenShot文件夹下查看):
 
 <p>
-	<img src="https://github.com/woshiluoyong/StephenVueCliProject/blob/master/screenShot/1.jpg" alt="纵横智停H5截图"  width="500" height="150">
-	<p align="center">
-		<em>纵横智停H5截图</em>
-	</p>
-</p>
-<p>
-	<img src="https://github.com/woshiluoyong/StephenVueCliProject/blob/master/screenShot/2.jpg" alt="纵横智停H5截图"  width="500" height="150">
-	<p align="center">
-		<em>纵横智停H5截图</em>
-	</p>
+	<p>
+        <img src="https://github.com/woshiluoyong/StephenVueCliProject/blob/master/screenShot/1.jpg" alt="纵横智停H5截图"  width="150" height="500">
+        <p align="center">
+            <em>纵横智停H5截图</em>
+        </p>
+    </p>
+    <p>
+        <img src="https://github.com/woshiluoyong/StephenVueCliProject/blob/master/screenShot/2.jpg" alt="纵横智停H5截图"  width="150" height="500">
+        <p align="center">
+            <em>纵横智停H5截图</em>
+        </p>
+    </p>
 </p>
 
 ![纵横智停H5截图](https://github.com/woshiluoyong/StephenVueCliProject/blob/master/screenShot/1.jpg)
