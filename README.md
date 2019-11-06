@@ -16,8 +16,10 @@
 
 > vue.config.js里面的devServer->proxy默认开启了调试时跨域,无需在chrome上加命令了
 
-### 本项目框架已成功应用于"纵横智停"项目,微信可搜索"纵横智停"公众号体验 
-### [纵横智停](http://wx.cdhuanyu.com.cn/) ==> 部分页面需微信打开浏览
+> 具体clone项目体验绝对巴适!
+
+### 如果有任何使用问题,可扫码以下微信二维码联系我(请备注"来自github"),热枕为您解答
+![作者二维码](https://github.com/woshiluoyong/StephenVueCliProject/blob/master/screenShot/my_wx_code.jpg)
 
 ## Build Setup
 
@@ -31,3 +33,13 @@ npm start
 # build for production with minification
 npm run build
 ```
+
+>> ## 本项目框架已成功应用于"纵横智停"项目,微信可搜索"纵横智停"公众号体验 
+>> ## [纵横智停](http://wx.cdhuanyu.com.cn/) ==> 部分页面需微信打开浏览
+
+>> ### 最后，展示截图(如果截图抽风没展示出来，请在screenShot文件夹下查看):
+
+![纵横智停H5截图](https://github.com/woshiluoyong/StephenVueCliProject/blob/master/screenShot/1.png)
+![纵横智停H5截图](https://github.com/woshiluoyong/StephenVueCliProject/blob/master/screenShot/2.png)
+![纵横智停H5截图](https://github.com/woshiluoyong/StephenVueCliProject/blob/master/screenShot/3.png)
+![纵横智停H5截图](https://github.com/woshiluoyong/StephenVueCliProject/blob/master/screenShot/4.png)
