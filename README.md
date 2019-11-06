@@ -39,7 +39,7 @@ npm run build
 
 >> ### 最后，展示截图(如果截图抽风没展示出来，请在screenShot文件夹下查看):
 
-![纵横智停H5截图](https://github.com/woshiluoyong/StephenVueCliProject/blob/master/screenShot/1.png)
-![纵横智停H5截图](https://github.com/woshiluoyong/StephenVueCliProject/blob/master/screenShot/2.png)
-![纵横智停H5截图](https://github.com/woshiluoyong/StephenVueCliProject/blob/master/screenShot/3.png)
-![纵横智停H5截图](https://github.com/woshiluoyong/StephenVueCliProject/blob/master/screenShot/4.png)
+![纵横智停H5截图](https://github.com/woshiluoyong/StephenVueCliProject/blob/master/screenShot/1.jpg)
+![纵横智停H5截图](https://github.com/woshiluoyong/StephenVueCliProject/blob/master/screenShot/2.jpg)
+![纵横智停H5截图](https://github.com/woshiluoyong/StephenVueCliProject/blob/master/screenShot/3.jpg)
+![纵横智停H5截图](https://github.com/woshiluoyong/StephenVueCliProject/blob/master/screenShot/4.jpg)
