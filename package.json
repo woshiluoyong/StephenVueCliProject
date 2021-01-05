@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@xkeshi/vue-countdown": "^1.0.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "dayjs": "^1.7.7",
     "lodash": "^4.17.11",
     "pubsub-js": "^1.7.0",
